@@ -1,2 +1,2 @@
 # may not see this because its gonna be weird.. erm
-ok
+$ {\color{#FFC000}\text{garena}}$
